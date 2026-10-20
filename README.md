@@ -44,4 +44,11 @@ Tabel lengkap (13 model, periode A/B terpisah, per merek, ablasi) ada di noteboo
     ├── car_sales_2021_2025.csv
     ├── bi_7day_rr.xlsx
     └── inflasi_ihk_ytd_2022_100.csv
+└── data-original-name/
+    ├── dataCarSale2021-2025.csv
+    ├── BI-7Day-RR.xlsx
+    └── Tingkat Inflasi Harga Konsumen Nasional Tahun Kalender (Y-to-D)  (2022=100).csv
+└── notebook/
+    ├── izinserius.ipynb
+    └── pedas2025_carsale.ipynb
 ```
