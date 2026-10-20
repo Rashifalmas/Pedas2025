@@ -1,0 +1,11 @@
+# Lingkungan yang sudah diuji (hasil kedua lingkungan identik pada seluruh tabel hasil):
+#   A) Python 3.12 | pandas 3.0.2, numpy 2.4.4, scikit-learn 1.8.0, statsmodels 0.15.0, lightgbm 4.7.0, matplotlib 3.10.8, openpyxl 3.1.5
+#   B) Python 3.12 | pandas 2.2.3, numpy 2.2.6, scikit-learn 1.5.2, statsmodels 0.14.6, lightgbm 4.3.0, matplotlib 3.11.2, openpyxl 3.1.5
+# Belum diuji: Google Colab, Python selain 3.12, versi di bawah batas minimum berikut.
+pandas>=2.2.3
+numpy>=2.2
+scikit-learn>=1.5.2
+statsmodels>=0.14.6
+lightgbm>=4.3.0
+matplotlib>=3.10
+openpyxl>=3.1          # dibutuhkan pd.read_excel untuk bi_7day_rr.xlsx
